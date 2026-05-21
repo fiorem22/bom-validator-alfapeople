@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entorno virtual
+venv/
+.env
+
+# Archivos temporales
+.DS_Store
+
+# Resultados generados
+resultado_validacion_bom.xlsx
